@@ -1,0 +1,17 @@
+{
+  "name": "telegram-reader-messages",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.20.0",
+    "dotenv": "^16.4.5",
+    "prisma": "^5.20.0",
+    "telegram": "^2.25.15"
+  }
+}
