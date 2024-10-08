@@ -9,9 +9,8 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "@prisma/client": "^5.20.0",
+    "axios": "^1.7.7",
     "dotenv": "^16.4.5",
-    "prisma": "^5.20.0",
     "telegram": "^2.25.15"
   }
 }
